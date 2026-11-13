@@ -3,8 +3,11 @@
 Bước 1: Tạo thư mục bài tập
 
 mkdir Bai03
+
 cd Bai03
+
 mkdir Bt03
+
 cd Bt03
 
 Bước 2: Tạo tập tin bai03.js
