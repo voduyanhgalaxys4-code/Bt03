@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## 1. Các bước thực hiện
 
 Bước 1: Tạo thư mục bài tập
@@ -32,4 +31,4 @@ Hình 2: Kết quả chạy chương trình trên Terminal
 
 Hình 3: Nội dung tập tin thongtin.txt sau khi cập nhật
 
-![Mã nguồn bai03.js](images/hinh3.png)
+![Nội dung tập tin](image/hinh3.png)
