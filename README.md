@@ -22,7 +22,21 @@ Bước 4: Kiểm tra tập tin thongtin.txt
 
 Mở tập tin thongtin.txt để kiểm tra thông tin sau khi cập nhật.
 
-## 2. Hình ảnh thực hiện
+## 2. Kết quả
+
+Chương trình được viết và thực thi thành công bằng Node.js.
+
+Tập tin thongtin.txt được tạo thành công bằng phương thức fs.writeFile().
+
+Thông tin họ tên và mã sinh viên được ghi vào tập tin.
+
+Nội dung trong tập tin được đọc thành công bằng phương thức fs.readFile() và hiển thị trên Terminal.
+
+Tên lớp được bổ sung vào cuối tập tin bằng phương thức fs.appendFile().
+
+Sau khi cập nhật, chương trình đọc lại tập tin và hiển thị đầy đủ thông tin gồm họ tên, mã sinh viên và tên lớp.
+
+## 3. Hình ảnh thực hiện
 
 Hình 1: Tập tin mã nguồn bai03.js
 
@@ -35,3 +49,5 @@ Hình 2: Kết quả chạy chương trình trên Terminal
 Hình 3: Nội dung tập tin thongtin.txt sau khi cập nhật
 
 ![Nội dung tập tin](image/hinh3.png)
+
+
