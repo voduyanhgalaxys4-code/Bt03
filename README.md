@@ -23,11 +23,11 @@ Mở tập tin thongtin.txt để kiểm tra thông tin sau khi cập nhật.
 
 Hình 1: Tập tin mã nguồn bai03.js
 
-![Mã nguồn bai03.js](images/hinh1.png)
+![Mã nguồn bai03.js](image/hinh1.png)
 
 Hình 2: Kết quả chạy chương trình trên Terminal
 
-![Mã nguồn bai03.js](images/hinh2.png)
+![Kết quả chạy chương trình](image/hinh2.png)
 
 Hình 3: Nội dung tập tin thongtin.txt sau khi cập nhật
 
