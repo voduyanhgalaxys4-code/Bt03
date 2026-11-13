@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 1. Các bước thực hiện
 
 Bước 1: Tạo thư mục bài tập
